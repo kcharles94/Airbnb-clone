@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BAirbnb-clone%7D/static/css/main.4638fa57.css",
+    "main.js": "/%7BAirbnb-clone%7D/static/js/main.309d03c4.js",
+    "index.html": "/%7BAirbnb-clone%7D/index.html",
+    "main.4638fa57.css.map": "/%7BAirbnb-clone%7D/static/css/main.4638fa57.css.map",
+    "main.309d03c4.js.map": "/%7BAirbnb-clone%7D/static/js/main.309d03c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4638fa57.css",
+    "static/js/main.309d03c4.js"
+  ]
+}
