@@ -1,0 +1,96 @@
+*{
+  box-sizing: border-box;
+
+}
+
+body {
+  margin: 0;
+
+
+}
+
+nav{
+  height: 100px;
+  display: flex;
+  padding: 30px 36px;
+  box-shadow: 0px 4px 7.4px rgb(0,0,0,0.1);
+  
+}
+
+
+
+.bnbphoto{
+  display: flex;
+  flex-direction: column;
+  padding: 60px 100px 0px 100px;
+  flex: 0 0 auto;
+ 
+}
+
+.navphotobnb{
+  display: flex;
+  flex-direction: column;
+width: 600px;
+align-self: center;
+}
+
+main > img{
+  margin-bottom: 100px;
+}
+
+main > h1 {
+  display: flex;
+  text-align: left;
+  padding-left: 20px;
+}
+
+main > p {
+  display: flex;
+  text-align: left;
+  padding-left: 20px;
+  max-width: auto;
+  margin-bottom: 150px;
+}
+
+
+
+.bold{
+  font-style:oblique;
+}
+
+.card{
+  display: flex;
+  width: 200px;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  margin: auto;
+  overflow-x: auto;
+}
+ section{
+  padding-left: 20px;
+
+} 
+
+.card--image{
+  width: 200px;
+  margin-bottom: 5px;
+  border-radius: 9px;
+
+}
+
+.card--stats{ 
+  display: flex;
+  align-items: center;
+}
+.card--title{
+  display: flex;
+  text-overflow: ellipsis;
+}
+.cards--list{
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;
+
+}
